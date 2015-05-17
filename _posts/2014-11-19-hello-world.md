@@ -1,7 +1,7 @@
 ---
 ID: 1
 post_title: Hello world!
-author: adalovelace
+author: PHPWomen
 post_date: 2014-11-19 02:12:20
 post_excerpt: ""
 layout: post
