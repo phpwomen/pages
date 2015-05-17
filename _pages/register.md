@@ -1,7 +1,7 @@
 ---
 ID: 8
 post_title: Register
-author: adalovelace
+author: PHPWomen
 post_date: 2014-11-19 13:37:55
 post_excerpt: ""
 layout: page
