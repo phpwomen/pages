@@ -16,4 +16,34 @@ clients:
 testimonial:
   - 'a:2:{s:17:"testimonial-image";s:0:"";s:19:"testimonial-content";s:0:"";}'
 ---
-An <strong>inclusive &amp; global</strong> network providing support within the PHP community.
+<article id="what-we-do">
+				<header>
+					<h2>Supporting you in your code adventures.</h2>
+				</header>
+				<div class="container">
+					<div class="row">
+						<div class="4u">
+							<section class="box box-style1">
+								<span class="fa featured fa-comments-o"></span>
+								<h3>Online Interaction</h3>
+								<p>Get in touch with other members regardless of your location.</p>
+							</section>
+						</div>
+						<div class="4u">
+							<section class="box box-style1">
+								<span class="fa featured fa-file-o"></span>
+								<h3>Event Scholarships</h3>
+								<p>Getting you the help you need to get to conferences and hear from your peers.</p>
+							</section>
+						</div>
+						<div class="4u">
+							<section class="box box-style1">
+								<span class="fa featured fa-thumbs-o-up"></span>
+								<h3>Education &amp; Mentoring</h3>
+								<p>Helping you to level up your skills in the ways that work for you.</p>
+							</section>
+						</div>
+					</div>
+				</div>
+			
+			</article>
