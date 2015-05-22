@@ -1,6 +1,6 @@
 ---
 ID: 25
-post_title: PHPWomen
+post_title: 'An inclusive &#038; global network providing support within the PHP community.'
 author: PHPWomen
 post_date: 2015-05-17 18:08:26
 post_excerpt: 'An inclusive & global network providing support within the PHP community.'
