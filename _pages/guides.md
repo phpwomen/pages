@@ -15,5 +15,5 @@ There are several questions that we get asked often, so we made these guides. If
 	<li>Helping PHPWomen / contributing</li>
 	<li>Leanpub</li>
 	<li>What you can do to improve diversity for your events</li>
-	<li>Edication &amp; mentoring</li>
+	<li>Education &amp; mentoring</li>
 </ul>
