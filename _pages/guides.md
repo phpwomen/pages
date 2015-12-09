@@ -12,8 +12,8 @@ There are several questions that we get asked often, so we made these guides. If
 <ul>
 	<li><a href="http://dev-phpwomen.pantheon.io/activity/">Our activities</a></li>
 	<li><a href="http://dev-phpwomen.pantheon.io/sending-someone-to-a-conference-scholarships/">Sending someone to a conference / scholarships</a></li>
-	<li>Helping PHPWomen / contributing</li>
+	<li><a href="http://dev-phpwomen.pantheon.io/helping-phpwomen-contributing/">Helping PHPWomen / contributing</a></li>
 	<li>Leanpub</li>
 	<li>What you can do to improve diversity for your events</li>
-	<li>Education &amp; mentoring</li>
+	<li><a href="http://dev-phpwomen.pantheon.io/education-mentoring/">Education &amp; mentoring</a></li>
 </ul>
