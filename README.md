@@ -1,4 +1,8 @@
-#pages - Stale
-This is the repo for github pages sinc from WordPress.
+# Pages
 
-Currently in stalemate due to bug. Needs to be picked up but not MVP.
+This repository has a copy of all the published documentation on the PHPwomen.org website. 
+
+If you see a mistake, please send in a pull request to fix it. 
+
+Thanks!
+
