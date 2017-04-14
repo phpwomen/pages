@@ -8,3 +8,4 @@ layout: page
 permalink: http://dev.phpwomen.org/welcome/
 published: true
 ---
+PHPWomen is an <strong>inclusive &amp; global</strong> network providing support within the PHP community.
