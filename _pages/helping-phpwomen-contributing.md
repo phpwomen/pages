@@ -1,12 +1,12 @@
 ---
-ID: 110
+ID: 62
 post_title: Helping PHPWomen / contributing
-author: Lineke Kerckhoffs-Willems
-post_date: 2015-12-09 21:38:02
+author: adalovelac3
+post_date: 2017-04-14 20:31:15
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev-phpwomen.pantheon.io/helping-phpwomen-contributing/
+  http://dev.phpwomen.org/helping-phpwomen-contributing/
 published: true
 ---
 You can help PHPWomen in several ways:

@@ -1,11 +1,10 @@
 ---
-ID: 115
+ID: 54
 post_title: Donations
-author: Lineke Kerckhoffs-Willems
-post_date: 2015-12-09 21:45:22
+author: adalovelac3
+post_date: 2017-04-14 20:31:15
 post_excerpt: ""
 layout: page
-permalink: >
-  http://dev-phpwomen.pantheon.io/donations/
+permalink: http://dev.phpwomen.org/donations/
 published: true
 ---

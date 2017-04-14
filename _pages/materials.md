@@ -1,12 +1,11 @@
 ---
-ID: 107
+ID: 66
 post_title: Materials
-author: Lineke Kerckhoffs-Willems
-post_date: 2015-12-09 21:35:26
+author: adalovelac3
+post_date: 2017-04-14 20:31:15
 post_excerpt: ""
 layout: page
-permalink: >
-  http://dev-phpwomen.pantheon.io/materials/
+permalink: http://dev.phpwomen.org/materials/
 published: true
 ---
 List our elephpant shop, stickers, t-shirts etc.
