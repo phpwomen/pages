@@ -1,6 +1,6 @@
 ---
 ID: 54
-post_title: Donations
+post_title: Donate
 author: adalovelac3
 post_date: 2017-04-14 20:31:15
 post_excerpt: ""
