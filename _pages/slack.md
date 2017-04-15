@@ -14,7 +14,7 @@ In a nutshell Slack is an online chat service for teams. You can read more about
 <h2>Why Slack?</h2>
 After many years of IRC, PHPWomen has decided to move most of our communication onto Slack. Our old IRC channel #phpwomen is still on freenode. Slack is a popular tool that many of us are already used with at work. It is very user friendly and makes it much easier to have conversations, regardless of technical ability.
 <h2>What topics you can expect</h2>
-Anything from kittens, events, scholarships, diversity topics and technology. We are a friendly, safe environment for <strong>all</strong> PHP developers, and friends to hangout, regardless of gender and any other factors.
+Anything from kittens, events, scholarships, diversity topics and technology. We are a friendly, safe environment for PHP lovers and users to hangout, regardless of gender and any other factors.
 
 You can always reach out to us on <a href="https://phpwomen.signup.team">Slack</a> or <a href="mailto:hello@phpwomen.org">e-mail</a> and we will be happy to support you.
 <h2>Code of Conduct</h2>
