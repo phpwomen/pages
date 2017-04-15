@@ -11,7 +11,7 @@ published: true
 ---
 <div id="js_2v" class="_5pbx userContent" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
 
-In an effort to streamline our communication channels, we are using Slack (chat platform). Please go to https://phpwomen.signup.team for an auto invite to the team.
+In an effort to streamline our communication channels, we are using Slack (chat platform). Please go to <a href="https://phpwomen.signup.team/">https://phpwomen.signup.team</a> for an auto invite to the team.
 
 We look forward to seeing you there!
 
