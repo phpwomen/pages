@@ -6,7 +6,7 @@ post_date: 2016-03-24 14:38:47
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.phpwomen.org/2016/03/24/hello-world/
+  http://dev.phpwomen.org/2016/03/24/want-an-purple-elephpant/
 published: true
 ---
 <div class="_5x46"></div>
