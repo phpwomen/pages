@@ -19,7 +19,7 @@ We love sending people to conferences who would otherwise not be able to attend.
 
 This is where most of our funds go. You can also donate flights, hotel and conference tickets directly to members of PHPWomen with us as mediator.
 <h2>Conference Speakers</h2>
-Conferences often offer a speaker package. Sometimes the speaker package is not large enough for speakers on more remote places. We would love to support them too, by covering extra travel costs, and if needed, part of their hotel.
+Conferences often offer a speaker package. In an effort to keep ticket prices low: The speaker package is often not large enough for speakers on more remote places. In general we encourage local speakers but of course we would love to support speakers living in more remote places too. We do this by covering extra travel costs, and if needed, part of their hotel.
 <h2>Promotion material</h2>
 In order to spread the word we need promotion material, such as stickers, booth material and business cards.
 <h2>Other Donations</h2>
