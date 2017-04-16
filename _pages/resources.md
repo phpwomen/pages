@@ -8,7 +8,6 @@ layout: page
 permalink: http://dev.phpwomen.org/resources/
 published: true
 ---
-&nbsp;
 <h2>Mentoring in PHP</h2>
 We believe that mentoring helps all programmers of any level. Both being and having a mentor can have tremendous benefits in your learning - And after all, as programmers we never stop learning. PHP mentoring is a peer to peer mentoring organisation where you can get mentors to help you in your code adventures, and be a mentor to others. We support them and can recommend them to all of our members.
 
