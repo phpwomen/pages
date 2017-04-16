@@ -14,6 +14,8 @@ published: true
 <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>In order to support and educate people in the PHP community we need funds. If you are considering donating first and foremost: Thank you. You can make a general donation using PayPal with the button on the top of this page.
 
 You can also donate with a bank transfer using our US or EU bank accounts. Contact us for this option.
+
+If you are an author on Leanpub you can support us by <a href="http://dev.phpwomen.org/leanpub/">donating part of your sales to our leanpub cause </a>
 <h2>Scholarships</h2>
 We love sending people to conferences who would otherwise not be able to attend.
 
