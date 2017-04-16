@@ -15,7 +15,7 @@ published: true
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Social media presence on Twitter and Facebook.</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Keeping an eye out for PHP related conferences, calls for papers and unconferences.</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Assisting other members in growing their technical and professional skills; for instance reviewing </span><span style="font-weight: 400;">a conference call for papers application or a CV.</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Managing our mentorship in co-operation with </span><a href="http://phpmentoring.org/"><span style="font-weight: 400;">http://phpmentoring.org</span></a></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Managing our mentorship in co-operation with </span><a href="http://php-mentoring.org/"><span style="font-weight: 400;">http://php-mentoring.org</span></a></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Evangelising and promoting the group at conferences, and keeping track of conference swag.</span></li>
 </ul>
 <h2><span style="font-weight: 400;">Get involved</span></h2>
