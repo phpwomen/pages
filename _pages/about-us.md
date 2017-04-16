@@ -28,4 +28,4 @@ published: true
 
 <b>“A good place for everyone, means a good place for women too.”</b>
 
-<b>Read more about <a href="http://dev.phpwomen.org/activities/">what we do</a> </b>
+<b>Read more about <a href="http://dev.phpwomen.org/activities/">the activities that we do</a> </b>
