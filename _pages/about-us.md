@@ -1,7 +1,7 @@
 ---
 ID: 33
 post_title: About Us
-author: adalovelac3
+author: PHPWomen
 post_date: 2017-04-14 17:48:21
 post_excerpt: ""
 layout: page
@@ -28,4 +28,4 @@ published: true
 
 <b>“A good place for everyone, means a good place for women too.”</b>
 
-<b>Read about <a href="http://dev.phpwomen.org/activties/">what we do under our activities guide</a> where you can also read more about how to organize your own activities. </b>
+<b>Read about <a href="http://dev.phpwomen.org/activities/">what we do under our activities guide</a> </b>
