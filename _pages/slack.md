@@ -24,6 +24,7 @@ For this code of conduct, we refer to the administrators of this team:
 
 Michelle Sanver @michellesanver
 Mark Baker @markbaker
+Alex Ng @alex
 <h3>1. Purpose</h3>
 We believe our community should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, preferred operating system, programming language, or text editor.
 
